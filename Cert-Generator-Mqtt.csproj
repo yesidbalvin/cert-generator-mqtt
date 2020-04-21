@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Cert_Generator_Mqtt</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MedallionShell" Version="1.6.1" />
+    <PackageReference Include="rmt_openssl" Version="1.1.0.3" />
+    <PackageReference Include="System.Security.Cryptography.OpenSsl" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cert-Generator-Mqtt": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\SafeFleet-ABLE\\Docs\\certificates"
+    }
+  }
+}
